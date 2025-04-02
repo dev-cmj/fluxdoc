@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+# 실제 환경 파일은 무시
+.env
+*.env
